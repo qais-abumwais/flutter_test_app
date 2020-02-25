@@ -1,0 +1,29 @@
+const String login='Login';
+const String login_SignUp='Login / SignUp';
+const String home='Home';
+const String services='Services';
+const String packages='Packages';
+const String renting='Renting';
+const String more='More';
+const String casting='Casting';
+const String media='Media';
+const String partners='Partners';
+const String blogs='Blogs';
+const String locations='Locations';
+const String contactUs='Contact Us';
+const String careers='Careers';
+const String aboutUs='aboutUs';
+const String facebook='FaceBook';
+const String youtube='Youtube';
+const String instagram='Instagram';
+const String twitter='Twitter';
+const String pinterest='Pinterest';
+const String linkedln='LinkedIn';
+const String cart='Cart';
+const String orderHistory='Order History';
+const String message='Message';
+const String logOut='Logout';
+const String knowMore='Know More';
+const String requestService='Request Service';
+
+
